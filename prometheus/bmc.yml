@@ -1,0 +1,5 @@
+---
+- targets:
+  - 10.141.180.82
+  labels:
+    job: ipmi_exporter
